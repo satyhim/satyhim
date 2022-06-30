@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python, Pandas, SQL, Machine Learning projects
 
-- 💞️ I’m looking to collaborate on IT sector in data science field
+- 💞️ I’m looking forward to have a carrer in data science field
 
 - 📫 Reach me @  satishmuttalwad@gmail.com
 
