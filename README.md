@@ -2,9 +2,9 @@
  
 - 👀 I’m interested in Data Science
 
-- 🌱 I’m currently learning Python, Pandas, SQL, Machine Learning projects
+- 🌱 I’m currently working on Python, Pandas, SQL, Machine Learning projects
 
-- 💞️ I’m looking forward to have a carrer in data science field
+- 💞
 
 - 📫 Reach me @  satishmuttalwad@gmail.com
 
