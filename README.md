@@ -2,7 +2,7 @@
  
 - 👀 I’m interested in Data Science
 
-- 🌱 I’m currently working on Python, Pandas, SQL, Machine Learning projects
+- 🌱 I’m currently working on Python, SQL, Machine Learning,Deep Learning, NLP, projects
 
 - 💞
 
