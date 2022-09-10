@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Satish Muttalwad</h1>
-<h3 align="center">Passionate about Data Science</h3>
+## Things I am passionate about
+
+📈 Machine Learning
+
+🤖 Deep Learning
+
+🧠 Neural Networks- Tensorflow & Keras
+
+👁️ Computer Vision
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyhim&label=Profile%20views&color=0e75b6&style=flat" alt="satyhim" /> </p>
 
@@ -22,3 +30,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyhim&show_icons=true&locale=en" alt="satyhim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyhim&" alt="satyhim" /></p>
+## Satish's Total Stats:
+
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshmore1&show_icons=true&theme=radical)
+
+## Visitor's Count:
+
+![Visitor Count](https://profile-counter.glitch.me/rajeshmore1/count.svg)
