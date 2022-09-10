@@ -30,9 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyhim&show_icons=true&locale=en" alt="satyhim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyhim&" alt="satyhim" /></p>
-## Satish's Total Stats:
-
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshmore1&show_icons=true&theme=radical)
 
 ## Visitor's Count:
 
