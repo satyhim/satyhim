@@ -36,4 +36,4 @@
 
 ## Visitor's Count:
 
-![Visitor Count](https://profile-counter.glitch.me/rajeshmore1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/satyhim/count.svg)
